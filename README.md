@@ -16,13 +16,12 @@ Lo encontrarás en la sección de pinned, después de esta presentación.
 
 **I am currently looking for work.**
 
-## Proyectos destacados
+## Recently Projects
 
 You will find it in the pinned section, after this presentation
 
------
+---
 
 ## My Social Networks
 
 **[Facebook](https://www.linkedin.com/in/darkusphantom/)** / **[Twitter](https://twitter.com/DarkusPhantom2)** / **[LinkdIn](https://www.linkedin.com/in/darkusphantom/)** / **[Telegram](https://t.me/darkusphantomchannel)**
-
