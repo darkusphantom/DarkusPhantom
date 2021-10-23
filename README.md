@@ -13,7 +13,7 @@ Busco optimizar recursos y mejorar el rendimiento de los sitios web. Ayudo a mej
 Además, creo componentes reutilizables, aprendo y aplico buenas prácticas al escribir código, incluyendo realizar análisis asintotico en los algoritmos.
 
 **Mis herramientas:**
-- HTML, CSS, Javascript, React
+HTML, CSS, Javascript, React, Angular
 
 💼 **Portafolio**
 [Mi Website](https://darkusphantom.github.io/darkusphantom-website/index.html) (En desarrollo):
