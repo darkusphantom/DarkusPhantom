@@ -21,8 +21,8 @@ HTML, CSS, Javascript, React, Angular
 🔥Nunca te rindas y supera tus limites🌟
 
 ## Mis redes sociales
-**Facebook**:[darkusphantom](https://facebook.com/darkusphantom/)
-**Twitter:** [@darkusphxntxm](https://twitter.com/darkusphxntxm)
-**Instagram:** [@darkusphxntxm](https://www.instagram.com/darkusphxntxm/)
-**LinkedIn**:[darkusphantom](https://www.linkedin.com/in/darkusphantom/)
-**Telegram**: [DakusPhantom Channel](https://t.me/darkusphxntxm)
+- **Facebook**:[darkusphantom](https://facebook.com/darkusphantom/)
+- **Twitter:** [@darkusphxntxm](https://twitter.com/darkusphxntxm)
+- **Instagram:** [@darkusphxntxm](https://www.instagram.com/darkusphxntxm/)
+- **LinkedIn**:[darkusphantom](https://www.linkedin.com/in/darkusphantom/)
+- **Telegram**: [DakusPhantom Channel](https://t.me/darkusphxntxm)
