@@ -1,17 +1,15 @@
 ## 👋👨‍💻 Hello World, I'm Darkus
 
-👨‍💻 Frontend Developer | Code, upgrade and break your limits 🔥
+👨‍💻 Frontend Developer | Hacking your limits 🔥
 
 🚀 Autodidacta | 🌈 Creativo | 🔎 Curioso | 🎯 Enfocado a objetivos
 🙌 Siempre creando retos que me permitan superarme y me ayuden a mejorar
 
-**Mis herramientas:**
-HTML, CSS, Javascript, React, Angular
+## 🛠 Mis herramientas
+HTML, CSS, Javascript, Typescript, React, Angular, NodeJS, Go, Bash, C++
 
-💼 **Portafolio**
-[Mi Website](https://darkusphantom.github.io/darkusphantom-website/index.html) (En desarrollo):
-
-🔥Nunca te rindas y supera tus limites🌟
+## 💼 Blog
+[Mi blog](https://darkusphantom.com)
 
 ## Mis redes sociales
 - **Facebook**:[darkusphantom](https://facebook.com/darkusphantom/)
