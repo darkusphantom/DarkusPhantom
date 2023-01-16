@@ -5,13 +5,6 @@
 🚀 Autodidacta | 🌈 Creativo | 🔎 Curioso | 🎯 Enfocado a objetivos
 🙌 Siempre creando retos que me permitan superarme y me ayuden a mejorar
 
-🤔 **¿Qué hago?**
-Realizo maquetaciones con Responsive Design y Mobile First, interacciones con el usuario, aplico animaciones, consumo de APIs y uso del mismo.
-
-Busco optimizar recursos y mejorar el rendimiento de los sitios web. Ayudo a mejorar el SEO e incluir una buena experiencia de usuario.
-
-Además, creo componentes reutilizables, aprendo y aplico buenas prácticas al escribir código, incluyendo realizar análisis asintotico en los algoritmos.
-
 **Mis herramientas:**
 HTML, CSS, Javascript, React, Angular
 
@@ -26,3 +19,6 @@ HTML, CSS, Javascript, React, Angular
 - **Instagram:** [@darkusphxntxm](https://www.instagram.com/darkusphxntxm/)
 - **LinkedIn**:[darkusphantom](https://www.linkedin.com/in/darkusphantom/)
 - **Telegram**: [DakusPhantom Channel](https://t.me/darkusphxntxm)
+
+Puedes apoyar a mi contenido con un cafecito ☕️
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)]((https://ko-fi.com/H2H1HU2RG))
