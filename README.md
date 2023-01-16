@@ -20,5 +20,5 @@ HTML, CSS, Javascript, React, Angular
 - **LinkedIn**:[darkusphantom](https://www.linkedin.com/in/darkusphantom/)
 - **Telegram**: [DakusPhantom Channel](https://t.me/darkusphxntxm)
 
-Puedes apoyar a mi contenido con un cafecito ☕️
+Puedes apoyar a mi contenido con un cafecito ☕️<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)]((https://ko-fi.com/H2H1HU2RG))
